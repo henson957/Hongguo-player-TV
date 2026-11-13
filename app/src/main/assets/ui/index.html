@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' https: data:; connect-src 'none'; base-uri 'none'; form-action 'none'">
+<title>红果电视</title>
+<link rel="stylesheet" href="tv.css">
+<script defer src="tv.js"></script>
+</head>
+<body>
+<div id="app">
+<aside class="sidebar">
+ <div class="brand"><span class="brand-icon">▶</span><span>红果短剧<small>电视版</small></span></div>
+ <nav id="navigation" aria-label="主导航"></nav>
+ <div class="side-bottom"><button class="nav" data-view="account" data-focus="nav-account"><span class="nav-icon">◉</span>我的账号</button><button class="nav" data-view="settings" data-focus="nav-settings"><span class="nav-icon">⚙</span>设置</button><div class="edition">非官方 · 0.2.0-rc18</div></div>
+</aside>
+<main id="main" tabindex="-1"></main>
+<div id="toast" role="status" aria-live="polite"></div>
+<div id="overlay" class="hidden" role="dialog" aria-modal="true"></div>
+</div>
+</body></html>
+

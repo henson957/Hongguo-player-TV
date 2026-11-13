@@ -1,0 +1,48 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'dev.local.hongguotv'
+    compileSdk 35
+    buildToolsVersion '35.0.0'
+    defaultConfig {
+        applicationId 'dev.local.hongguotv'
+        minSdk 23
+        targetSdk 34
+        versionCode 21
+        versionName '0.2.0-rc18'
+    }
+    signingConfigs {
+        testBuild {
+            storeFile rootProject.file('signing/test-build.jks')
+            storePassword 'android'
+            keyAlias 'hongguo-tv-test'
+            keyPassword 'android'
+            enableV1Signing = true
+            enableV2Signing = true
+            enableV3Signing = true
+        }
+    }
+    buildTypes {
+        debug { signingConfig signingConfigs.testBuild }
+        release { signingConfig signingConfigs.testBuild; minifyEnabled false }
+    }
+    compileOptions {
+        coreLibraryDesugaringEnabled true
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    packaging { resources { excludes += ['META-INF/versions/**', 'META-INF/*.SF', 'META-INF/*.RSA', 'META-INF/*.DSA', 'META-INF/INDEX.LIST', 'META-INF/DEPENDENCIES'] } }
+}
+dependencies {
+    coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs_nio:2.1.5'
+    implementation fileTree(dir:'libs', include:['*.jar'])
+    implementation 'androidx.media3:media3-exoplayer:1.8.1'
+    implementation 'androidx.media3:media3-ui:1.8.1'
+    implementation 'androidx.media3:media3-exoplayer-hls:1.8.1'
+}
+configurations.configureEach {
+    exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib'
+    exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib-common'
+    exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib-jdk7'
+    exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib-jdk8'
+}
+

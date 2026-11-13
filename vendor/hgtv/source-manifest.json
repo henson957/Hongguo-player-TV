@@ -1,0 +1,197 @@
+[
+  {
+    "path": "LICENSE",
+    "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+    "source": "https://github.com/ps1001/HGTV/blob/main/LICENSE"
+  },
+  {
+    "path": "NOTICE.md",
+    "sha": "e5b1b2ed285584433d3ebf379ed24d530863aaa7",
+    "source": "https://github.com/ps1001/HGTV/blob/main/NOTICE.md"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/Account.kt",
+    "sha": "1f8bc4e4b57f07cb8596ea8dcced262716b7de66",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/Account.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/AccountImportServer.kt",
+    "sha": "9ed5c5c278700259e3be17f2dde89883a9f209c5",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/AccountImportServer.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/AesV3.kt",
+    "sha": "c6600247dee61e4e604bac4af3abf497c30e59b4",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/AesV3.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/AppUpdates.kt",
+    "sha": "8aa1b06ae1595ac924a87cc7e187a1debc5739df",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/AppUpdates.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/Bytes.kt",
+    "sha": "da6677acee90d1ed6f011560671470f1b95a2a5c",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/Bytes.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/CardMenu.kt",
+    "sha": "cf357e2e55fb6fbacd66749a74ecf9acf9de7cc2",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/CardMenu.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/CatalogSnapshot.kt",
+    "sha": "37e86dcce6677264fed35bc3752fe4ed3c211fb5",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/CatalogSnapshot.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/CategoryCatalog.kt",
+    "sha": "8e5945c61ab7536c28497d09fac8d4d4d1ae204e",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/CategoryCatalog.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/ContentRepository.kt",
+    "sha": "b1507dbf8b8e4af5c7b9e375ba949340e3a08d62",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/ContentRepository.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/ContentType.kt",
+    "sha": "fde9b910470df8daef4e037aefd079812d7274b1",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/ContentType.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/Danmaku.kt",
+    "sha": "4cba5e3f34c2006e375d2bec10782e9a32cdac78",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/Danmaku.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/DanmakuEmoji.kt",
+    "sha": "bb5584bf77234c4415f469ea1763a71c4e9acd2a",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/DanmakuEmoji.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/DeviceRegister.kt",
+    "sha": "b1e9a8a2a84d7e1525833886fc302822c7f0f2b5",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/DeviceRegister.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/HomeLayout.kt",
+    "sha": "1428b29d742d060f854db179c7b9b196b352fcb3",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/HomeLayout.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/KeyMap.kt",
+    "sha": "1c17e05c89b6b8c28a31fe37d3b186f8d5231fc0",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/KeyMap.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/LatestWriteQueue.kt",
+    "sha": "1ad8cf7187bd2306641c43bb34aef49c6d17412f",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/LatestWriteQueue.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/LibraryBackup.kt",
+    "sha": "3ad0330577ee46d079f67081e12756bf1ef578a7",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/LibraryBackup.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/LibraryIndex.kt",
+    "sha": "01fc24a03ff4f85bfad4603800083414950f9920",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/LibraryIndex.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/LibraryTransferServer.kt",
+    "sha": "77294119109f45399f0f008ac5a773df9106c6b9",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/LibraryTransferServer.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/MediaCrypto.kt",
+    "sha": "41ff39f8fdfb0c2efbf8d6ce60d8dc857dd83039",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/MediaCrypto.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/PhoneSearchServer.kt",
+    "sha": "22756a27fe385b46cbdaff94ce626ce46520ea64",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/PhoneSearchServer.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/PlaybackComfort.kt",
+    "sha": "f60e86fad94c5b19ec106524957d8818e2396fa6",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/PlaybackComfort.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/PlaybackSpeed.kt",
+    "sha": "31980ab6a326cb2a315cf8149e7cf2fe57e53ca2",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/PlaybackSpeed.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/PrefetchPolicy.kt",
+    "sha": "a81659c3d2fdfcc8a27dfa8ca26eda0609ad62b6",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/PrefetchPolicy.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/PreparedSlot.kt",
+    "sha": "32c5b74519244eb74a023ba882977712bcd402e0",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/PreparedSlot.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/Probe.kt",
+    "sha": "4587e31c274bbb08ac017ad346a9f2a3d7ce5387",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/Probe.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/RankBoard.kt",
+    "sha": "a49dcb8d8955017ce61c3c7d3d33ad1f512e34a6",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/RankBoard.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/RankPage.kt",
+    "sha": "73e06ff37242839ea18684f3e5f5df7a145443e2",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/RankPage.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/RemoteVideo.kt",
+    "sha": "c04dc097889bebce83b49073eb5e32bbe9e47f29",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/RemoteVideo.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/RequestScope.kt",
+    "sha": "c6ad7bf5f48c9e905453c8bce67564743b474fdb",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/RequestScope.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/SeriesSeasons.kt",
+    "sha": "1909c8e1ffff31e06445a57362e0b03f5023239f",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/SeriesSeasons.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/Signer.kt",
+    "sha": "52ce9ebfd6502cb445b58c2a43e40dfd2277710a",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/Signer.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/UpdatePrompt.kt",
+    "sha": "657359d9a32d362028527ff5e4a74d6dd53df13b",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/UpdatePrompt.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/VendorConstants.kt",
+    "sha": "46a30bc4e9a4825a3f22b23ba2937359f3860ea3",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/VendorConstants.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/VideoProbe.kt",
+    "sha": "e3348e7e25382537e6741f86396182c775ce5b4a",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/VideoProbe.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/ViewingTools.kt",
+    "sha": "b4cdafae5696c77b2eb729efbd7421407783f524",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/ViewingTools.kt"
+  },
+  {
+    "path": "android/core/src/main/kotlin/com/hgtv/star/core/Watching.kt",
+    "sha": "2e3499228cb7b17b3e59a56cee7c6c0cd9da5af1",
+    "source": "https://github.com/ps1001/HGTV/blob/main/android/core/src/main/kotlin/com/hgtv/star/core/Watching.kt"
+  }
+]

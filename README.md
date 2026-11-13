@@ -45,7 +45,7 @@
 | --- | --- | --- |
 | Android 电视 / 盒子 | Android 6.0（API 23）及以上 | [0.2.0-rc18 APK](https://github.com/henson957/Hongguo-player-TV/releases/download/v0.2.0-rc18/Hongguo-TV-0.2.0-rc18-Android6.apk) |
 
-1. 下载后缀为 **.apk** 的安装包。[Releases](https://github.com/henson957/Hongguo-player-TV/releases/tag/v0.2.0-rc18) 提供版本说明和 APK 的 SHA-256 校验值。
+1. 下载后缀为 **.apk** 的安装包。[Releases](https://github.com/henson957/Hongguo-player-TV/releases/tag/v0.2.0-rc18) 提供版本说明、APK 的 SHA-256 校验值和 [rc18 对应源码](https://github.com/henson957/Hongguo-player-TV/releases/download/v0.2.0-rc18/Hongguo-TV-0.2.0-rc18-source.zip)。
 2. 用 U 盘把 APK 拷到电视，或者用电视支持的文件传输工具发送，然后在电视上打开 APK 安装。部分电视需要在系统设置中允许对应文件管理器安装应用。
 3. 从电视应用列表打开「红果电视·测试」。已安装本项目同签名的旧版可以直接覆盖升级。
 
@@ -101,9 +101,13 @@ rc18 加了界面恢复处理。启动或回到前台时，如果界面无法恢
 
 遇到问题请到 [GitHub Issues](https://github.com/henson957/Hongguo-player-TV/issues) 反馈。附上应用版本、电视型号、Android 版本和复现步骤。有截图时请遮住手机号、登录二维码和红果号。
 
+从源码构建请见[开发与构建](docs/DEVELOPMENT.md)。
+
 ## ⚠️ 说明
 
 本项目是个人开发的 **非官方** Android 电视客户端，与红果短剧官方无关。安装包免费分享，供个人学习和交流。
+
+源码采用 [GPL-3.0-only](LICENSE)。依赖和派生来源见[项目来源与许可](NOTICE.md)。
 
 ## 👤 联系作者
 

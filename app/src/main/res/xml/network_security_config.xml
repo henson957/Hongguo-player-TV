@@ -1,0 +1,10 @@
+<network-security-config>
+ <base-config cleartextTrafficPermitted="false"/>
+ <domain-config cleartextTrafficPermitted="true">
+  <domain includeSubdomains="true">douyinvod.com</domain>
+  <domain includeSubdomains="true">ixigua.com</domain>
+  <domain includeSubdomains="true">zjcdn.com</domain>
+  <domain includeSubdomains="true">bytecdn.cn</domain>
+  <domain includeSubdomains="true">bytedance.com</domain>
+ </domain-config>
+</network-security-config>
