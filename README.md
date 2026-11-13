@@ -61,11 +61,16 @@
 ## 常见问题
 
 <details>
-<summary><strong>推送 APK 时提示「数据包异常」「解析错误」或 INSTALL_FAILED_OLDER_SDK？</strong></summary>
+<summary><strong>用手机推送安装包失败怎么办？</strong></summary>
 
-先在电视的「关于」或「设备信息」里确认 **Android 系统版本**。INSTALL_FAILED_OLDER_SDK 表示系统低于该 APK 要求的最低版本。rc13 最低需要 Android 8.0，rc18 最低需要 Android 6.0。
+如果用当贝助手、野草助手等从手机推送 APK 失败，或提示「数据包异常」「解析错误」，**建议优先用 U 盘安装**。把下载好的 `.apk` 文件复制到 U 盘，插入电视后，在电视的文件管理器里打开 APK 安装。
 
-如果电视满足要求，但传输助手只显示笼统报错，可用同一份 APK 从 U 盘打开。这样能判断是传输环节出了问题，还是电视安装时也会报错。
+</details>
+
+<details>
+<summary><strong>安装时提示 INSTALL_FAILED_OLDER_SDK？</strong></summary>
+
+这个错误表示电视的 Android 系统低于安装包要求。可在电视的「关于」或「设备信息」里查看系统版本。rc13 最低需要 Android 8.0，rc18 最低需要 Android 6.0。
 
 </details>
 
